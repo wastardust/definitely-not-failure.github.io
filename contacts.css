@@ -1,0 +1,15 @@
+.socials {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+main {
+    padding: 10px;
+}

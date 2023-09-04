@@ -1,0 +1,14 @@
+.photos {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly
+}
+
+.photoBlock {
+    padding: 15px;
+}
+
+.title {
+    text-align: center;
+}
